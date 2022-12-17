@@ -17,7 +17,9 @@
 Δημιουργία προταρχικού χάρτη. Animation και κίνηση του παίκτη στον χώρο.
 
 # 2nd Deliverable
-
+Χρησημοποιησα το rigidbody για την κινηση του παίχτη ώστε να μην δημιουργητε το εφε που όταν παει στον τοιχο ξαναγυρναει πισω και ξαναπαει προς το τοιχο
+Η κινηση του rigidbody καλείται μέσα απο την update καθως αποδιδει καλήτερα και όχι απο την fixedupdate που θα ήταν στανταρ το frame update σε καθε μηχανημα
+Ο "κακός" κάθε φορά που συμετέχει σε κάποια σύγκουση αλλάζει φορά στην κίνησή του και ανα ένα χρονικό διάστημα αλλάζει άξονα κίνησης
 
 # 3rd Deliverable 
 
@@ -26,7 +28,7 @@
 
 
 # Sources
-###Code sources: https://www.youtube.com/watch?v=Cry7FOHZGN4 , https://www.youtube.com/watch?v=32VXj5BB7wU , https://www.youtube.com/watch?v=rycsXRO6rpI
-###Tileset source: https://opengameart.org/content/metroidvania-tileset-v2
-###Sprite sheet: https://opengameart.org/content/lpc-combat-armor-for-women
+###Code sources: https://www.youtube.com/watch?v=Cry7FOHZGN4 , https://www.youtube.com/watch?v=32VXj5BB7wU , https://www.youtube.com/watch?v=rycsXRO6rpI , https://www.youtube.com/watch?v=DTp5zi8_u1U
+###Tileset source: https://opengameart.org/content/metroidvania-tileset-v2 
+###Sprite sheet: https://opengameart.org/content/lpc-combat-armor-for-women , https://opengameart.org/content/pixel-items-1 , https://opengameart.org/content/pixel-heart-sprite
 
